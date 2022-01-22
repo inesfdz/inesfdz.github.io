@@ -1,0 +1,43 @@
+<div class="row mx-0 my-4">
+    <div class="col-sm-4">
+        <img src="{{publi.img}}" class="img-fluid thumbnail">
+    </div>
+
+    <div id="{{publi.title}}" class="col-sm-8">
+    
+        <h5><a href="{{ publi.url | relative_url }}">{{ publi.title }}</a></h5>
+        <div class="authors">
+            {% for author in publi.authors %}
+                {% if forloop.last %}
+                <a href="{{ author.url }}" title="{{author.affiliations | join: ', '}}">{{ author.name}}. </a>
+                {% else %}
+                <a href="{{ author.url }}" title="{{author.affiliations | join: ', '}}">{{ author.name}}, </a>
+                {% endif %}
+            {% endfor %}
+            <span style="font-style: italic;">{{publi.title}}</span>.
+            {{publi.journal}}.
+            {{publi.date | date: "%b, %Y" }}.
+        </div>
+
+        <div class="links">
+            {% if publi.html %}
+                <a href="{{ publi.html}}" class="btn">HTML</a>
+            {% else %}
+                <a href="{{ publi.url | relative_url }}" class="btn">HTML</a>
+            {% endif %}
+            {% if publi.pdf %}
+                <a href="{{ publi.pdf}}" class="btn">PDF</a>
+            {% endif %}
+            {% if publi.publisher %}
+                <a href="{{ publi.publisher}}" class="btn">Publisher</a>
+            {% endif %}
+            {% if publi.arxiv %}
+                <a href="{{ publi.arxiv}}" class="btn">arXiv</a>
+            {% endif %}
+            {% if publi.bib %}
+                <a href="{{ publi.bib }}" class="btn">Bib</a>
+            {% endif %}
+        </div>
+
+    </div>
+</div>
