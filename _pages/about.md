@@ -7,18 +7,13 @@ nav: true
 ---
 
 
-## 👩‍🔬 Short Bio
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, ipsum eu porttitor consectetur, nisl nunc euismod nisi, eu porta nisl nunc euismod nisi.
-
 ## 🎓 Education
 
-### Agro ParisTech
+### AgroParisTech
 *2019 - 2020.* \\
-Masters in blabla
+Master in Management, Innovation and Business Performance (Gestion, Innovation et Performance des Entreprises - GIPE)
 
-Relevant course work:
-- Blabla
+Relevant course work: Management and Business Performance, Strategic Marketing, Strategy and Supply Chain Management, Innovative Design Methods, Investment and Project Financing Decisions, Business Models, Circular Economy, Entrepreneurship, Value Bioengineering, Energy, Environment, Water, Health and Biotechnology.
 
 
 ### École polytechnique 
@@ -31,21 +26,15 @@ This theme provides keys to exploit the knowledge from genome sequencing and to 
 The molecular bases that underlie genetic diversity and its evolution in the living world are presented as well as the relationships between Humans and their ecosystem.
 
 Relevant course work:
-- Immunology and infectious diseases, Biotechnology for medicine and agriculture, Genomes: Diversity, Environment and Human Health, Experimental program in quantitative imaging, Neurobiology, Biology of Molecular Systems, Human and environmental toxicology
-- Molecular biology and genetic information, Pathologies and therapeutic strategies
-- 
+- [Immunology and infectious diseases](https://synapses.polytechnique.fr/catalogue/2019-2020/ue/797/BIO551-immunologie-et-agents-infectieux?from=P380)
+- [Biotechnology for medicine and agriculture](https://synapses.polytechnique.fr/catalogue/2021-2022/ue/533/BIO553-biotechnologies-pour-la-medecine-et-l-agriculture?from=D1)
+- [Genomes: Diversity, Environment and Human Health](https://synapses.polytechnique.fr/catalogue/2021-2022/ue/768/BIO556-genomes-diversite-environnement-et-sante-humaine?from=D1)
+- [Experimental program in quantitative imaging](https://synapses.polytechnique.fr/catalogue/2020-2021/ue/455/BIO571B-travaux-experimentaux-en-imagerie-quantitative?from=D51)
+- [Neurobiology, Biology of Molecular Systems](https://synapses.polytechnique.fr/catalogue/2018-2019/ue/612/BIO561-neurosciences-integratives?from=D1)
+- [Human and environmental toxicology](https://synapses.polytechnique.fr/catalogue/2019-2020/ue/561/BIO582-toxicologie-humaine-et-environnementale?from=D23)
+- [Pathologies and therapeutic strategies](https://synapses.polytechnique.fr/catalogue/2021-2022/ue/210/BIO432-pathologies-et-strategies-therapeutiques?from=D1)
 
 ### Classes Préparatoires
 *2014 - 2016.*\\
 Two-year intensive preparation courses for the entrance exams to top French Engineering schools (Mathematics, Physics, Chemistry).  
 
-
-## 🙋‍♀️ Personal Information
-
-- Full Name: Inès Fernandez
-- Location: Paris
-- Pronouns: She/Her
-- Year of birth: 1997 
-- Hobbies
-    - Bli
-    - Blu
