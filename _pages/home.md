@@ -2,7 +2,7 @@
 layout: page
 permalink: /
 title: Home
-description: Engineer with a focus on Biology and Medical Technology. Studied at École polytechnique and Agro ParisTech.
+description:
 
 profile:
   image: avatar.jpg
@@ -16,17 +16,9 @@ news: true  # includes a list of news items
 
 <div class="row">
   <div class="col-md-8" markdown="1">
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, ipsum eu porttitor consectetur, nisl nunc euismod nisi, eu porta nisl nunc euismod nisi. 
-  
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, ipsum eu porttitor consectetur, nisl nunc euismod nisi, eu porta nisl nunc euismod nisi. 
+   Engineer with a focus on Biology and Medical Technology. Studied at École polytechnique and AgroParisTech. 
   </div>
   <div class="col-md-4 m-auto" style="text-align: center">
     <img class="img-responsive rounded-circle profile" src="assets/img/{{page.profile.image}}">
   </div>
 </div>
-
-
-{% if page.news %}
-## News
-  {% include news.html %}
-{% endif %}
