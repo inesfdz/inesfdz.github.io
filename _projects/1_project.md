@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Quantitative study and modeling of growth in the yeast _S. pombe_
+title: Quantitative study and modeling of growth in the yeast S. pombe
 description: Course project (3 months) under the supervision of Anatole Chessel
 img: assets/img/spombe.png
 importance: 1
