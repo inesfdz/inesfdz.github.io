@@ -2,12 +2,8 @@
 layout: page
 permalink: /about/
 title: About
-description: Detailed Curriculum Vitae, last updated 2022 <a href="/assets/pdf/cv.pdf"><i class="fas fa-download"></i></a>
 nav: true
 ---
-
-
-## 🎓 Education
 
 ### AgroParisTech
 *2019 - 2020.* \\
