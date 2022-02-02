@@ -211,7 +211,7 @@ a, table.table a{ // need to override the default link color of table.table
 
   .grid-sizer,
   .grid-item {
-    width: 30%;
+    width: 300pt;
     float: left;
     margin: 1em;
   }
@@ -234,7 +234,7 @@ a, table.table a{ // need to override the default link color of table.table
 
   .card-item {
     width: auto;
-    margin-bottom: 1em;
+    margin-bottom: 0.5em;
 
     .row {
       display: flex;

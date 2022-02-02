@@ -14,7 +14,7 @@ horizontal: false
   {%- assign sorted_projects = site.projects | sort: "importance" -%}
   <!-- Generate cards for each project -->
   <div class="container">
-    <div class="row row-cols-3">
+    <div class="grid">
     {%- for project in sorted_projects -%}
       {% include projects.html %}
     {%- endfor %}
